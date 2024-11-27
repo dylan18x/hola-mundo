@@ -1,3 +1,3 @@
-hola mundo (titulo 1)
-Mi primer repositorio (titulo 2)
-Mi primer ejercicio de **negrita** git y **negrita**github en clase
+#hola mundo 
+##Mi primer repositorio 
+Mi primer ejercicio de **git** y **github** en clase
